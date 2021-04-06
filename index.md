@@ -1,5 +1,5 @@
 # Kaggle
-1. Titanic - Machine Learning from Disaster (https://www.kaggle.com/kylecloud/titanic-top4percent)
+**1. Titanic - Machine Learning from Disaster (https://www.kaggle.com/kylecloud/titanic-top4percent)**
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others. In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
@@ -7,7 +7,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. On
 - Ensembled EfficientNet-B3\EfficientNet-B4\ResNeXt models and achieved Top11%.
 - Tools: Python Pandas PyTorch
 
-2. Cassava Leaf Disease Classification (https://www.kaggle.com/kylecloud/cassava-leaf-disease-top11percent)
+**2. Cassava Leaf Disease Classification (https://www.kaggle.com/kylecloud/cassava-leaf-disease-top11percent)**
 
 As the second-largest provider of carbohydrates in Africa, cassava is a key food security crop grown by smallholder farmers because it can withstand harsh conditions. At least 80% of household farms in Sub-Saharan Africa grow this starchy root, but viral diseases are major sources of poor yields. With the help of data science, it may be possible to identify common diseases so they can be treated. Your task is to classify each cassava image into four disease categories or a fifth category indicating a healthy leaf. With your help, farmers may be able to quickly identify diseased plants, potentially saving their crops before they inflict irreparable damage.
 
@@ -16,7 +16,7 @@ As the second-largest provider of carbohydrates in Africa, cassava is a key food
 - Tools: Python Scikit_learn Xgboost
         
 # courses in ML/DS
-1. Machine Learning - Andrew NG, Coursera
+**1. Machine Learning - Andrew NG, Coursera**
 
 It is one of the greatest online course modules introducing machine learning concepts and techniques. By the end of the course, we would have understood how to apply the most advanced machine learning algorithms to such problems as anti-spam, image recognition, clustering, building recommender systems, and many other problems. we'll also know how to select the right algorithm for the right job, as well as become expert at ‘debugging’ and figuring out how to improve a learning algorithm's performance.
 
@@ -24,7 +24,7 @@ It is one of the greatest online course modules introducing machine learning con
 - Implemented all the courseworks independently and achieved full scores.
 - Tools: Python Octave Matlab
 
-2. Machine Learning with Python - book
+**2. Machine Learning with Python - book**
 
 This is one of the best books teaching ML in practical which means instead of only reading there's lots of practices and projects to be done by hand although the concepts and details about all the algorithms are compete and also easy-understanding in the book. To achieve all the algorithms in ML by yourself to have an thorough understanding, Try this book.
 
@@ -32,7 +32,7 @@ This is one of the best books teaching ML in practical which means instead of on
 - Obtained a great experience in applying machine learning algorithms to the real-word datasets.
 - Tools: Python
 
-3. Deep Learning(PyTorch) - BEIJING JIAOTONG UNIVERSITY
+**3. Deep Learning(PyTorch) - BEIJING JIAOTONG UNIVERSITY**
 
 This course focused on the Deep Learning with its popular concepts, structures and techniques. Except the basic and detailed explanations about DL in the module, there were adequate experienments for students to carry on with PyTorch. We were expected to process and model the real-world datasets given by the course by hand.
 
@@ -40,7 +40,11 @@ This course focused on the Deep Learning with its popular concepts, structures a
 - impplemented all the experienments independantly and completely.
 - Tools: Python PyTorch
 
-4. Data science - King's College London
+**4. Data science - King's College London**
+- Data Mining
+- Pattern Recognition, Neural Networks and Deep Learning
+- Big Data Technologies
+- Simulation and Data Visualisation
 
 
 # software development
