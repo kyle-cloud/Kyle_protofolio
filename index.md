@@ -49,7 +49,7 @@ This course focused on the Deep Learning with its popular concepts, structures a
 
 # software development
 
-1. Localization System based on Mobile Big Data, BJTU
+**1. Localization System based on Mobile Big Data, BJTU**
 
 With the rapid development of wireless communication technology, hundreds of millions of mobile data are generated every day in our daily life, and the mobile behavior of objects is diverse while still maintaining regularity. Therefore, this subject switches the big data information according to the base station provided by the mobile base station, excavates its path of action, identifies the petitioner according to it, and provides the petitioner with Real time location information. At the same time, in order to solve the problem of big data storage calculation and track similarity matching, the high-level and low-level models are used. The low-level model combines the segmentation and dimensionality reduction based on MDL (minimum description length) principle with the neighbor grower algorithm (DBSCAN) based on segment clustering to preprocess the track to reduce the system operation time. The high level model combines the two-level planning based on track feature extraction The improved Hausdorff distance based on information entropy, time interpolation and time constraint is combined to match the trajectory to improve the performance of similarity recognition, so as to build a big data processing environment, and finally form a web software that presents the petitioner's trajectory and similar trajectory on the map, and judges the identity information accordingly.
 
@@ -57,15 +57,15 @@ With the rapid development of wireless communication technology, hundreds of mil
 - Created or optimized a set of algorithms to improve the performance of clustering and matching.
 - Tools: Java, MongoDB, JavaScript
 
-2. weChat - online chat platform, BJTU
+**2. weChat - online chat platform, BJTU**
 
 Instant online communication is becoming more and more popular and necessary. However, SMS, email and other channels are far from meeting the needs of the public for fast and simple communication. Our product, weChat, meets this condition. The mobile phone has replaced the function of SMS, and replaced the email in the aspect of instant communication, which truly meets the user's point-to-point communication needs. The system is a stand-alone software system and web application.
 
-- Wrote all the development documents required, such as feasibility analysis, software requirements specifications
-- Designed prototype and elegant UI,  implemented the function of chatting with single-person and multi-person, and carried out high concurrency experiments
+- Wrote all the development documents required, such as feasibility analysis, software requirements specifications.
+- Designed prototype and elegant UI,  implemented the function of chatting with single-person and multi-person, and carried out high concurrency experiments.
 - Tools: Java, MySQL, JavaScript
 
-3. Fingerprint - cyber security, BJTU
+**3. Fingerprint - cyber security, BJTU**
 
 The black industry chain is rising rapidly. Lawbreakers can cheat and avoid tracking through a series of means, such as tampering with IP. In this context, the device fingerprint identification came into being. Device fingerprint refers to the unique identification that can uniquely identify the device, which can not be set by fraudsters. The device fingerprint can be used to identify the device. At present, the fingerprint of the device has been obtained and in-depth research mainly focuses on the software level, such as the browser fingerprint, but the hardware level device fingerprint acquisition research is not enough. This work is based on the existing device fingerprint acquisition technology to improve, in order to achieve the goal of not infringing the user's privacy, achieve a good balance between security and user experience and ensure stability, compatibility and performance under the premise of catering to technology development. The project combines the new API features provided by HTML5 with Windows system management instrumentation in order to obtain the hardware information of local and remote computers and extract the device fingerprint of the device which belongs to the research of device fingerprint at the hardware level.
 
@@ -74,18 +74,27 @@ The black industry chain is rising rapidly. Lawbreakers can cheat and avoid trac
 - Used encryption algorithms to achieve similarity comparison, such as SimHash, GenSim and Levenshtein.
 
 
-4. JustFindit - Android application, BJTU
+**4. JustFindit - Android application, BJTU**
 
 JustFindit is a convenient navigation app focusing on users' needs for outdoor location and navigation. Through Baidu map API, direction sensor, SQLite database and other tools, this application can mark and archive current map position which means to add position remarks and view it later. The notes can be used to query the recorded location and the information about it.
 
-- Collaborated with another student to develop this software based on map API
-- Designed prototype, initialized configuration and realized back-end functions
+- Collaborated with another student to develop this software based on map API.
+- Designed prototype, initialized configuration and realized back-end functions.
 - Tools: C++, JavaScript, SQLite
 
-5. Grading System - BJTU
+**5. Grading System - BJTU**
 
+In order to simplify the grading process in university we designed and implemented a platform for students to upload the files and certifications and for lecturers to monitor and grade.
 
-6. Homedisk - Internship, BEIJING TIANXINGYICHEN
+- Identified requirements, set up Node.js environment and designed back-end functions for the product.
+- implemented front-end, realized all functions of system and finally put the system into operation.
 
+**6. Homedisk - Internship, BEIJING TIANXINGYICHEN**
 
-7. River Information Management System
+- Completed front-end, back-end and writing development documents for type of SkyDrive
+
+**7. River Information Management System - Internship, BEIJING TIANXINGYICHEN**
+
+- Optimized database queries and writing documents for software copyright
+- Improved query speed and efficiency to application standards and completed final document
+
