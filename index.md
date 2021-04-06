@@ -5,7 +5,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. On
 
 - Built and trained an ensembled model using PyTorch for image classification to recognize cassava leaf disease.
 - Ensembled EfficientNet-B3\EfficientNet-B4\ResNeXt models and achieved Top11%.
-- Python | Pandas | PyTorch
+- Tools: Python Pandas PyTorch
 
 2. Cassava Leaf Disease Classification (https://www.kaggle.com/kylecloud/cassava-leaf-disease-top11percent)
 
@@ -13,14 +13,24 @@ As the second-largest provider of carbohydrates in Africa, cassava is a key food
 
 - Analysed and preprocessed data and built models to predict which passengers survived the Titanic shipwreck.
 - Trained and compared different models with respective process of feature engineering and achieved Top 4%.
-- Python | Scikit_learn | Xgboost
+- Tools: Python Scikit_learn Xgboost
         
 # courses in ML/DS
 1. Machine Learning - Andrew NG, Coursera
 
+It is one of the greatest online course modules introducing machine learning concepts and techniques. By the end of the course, we would have understood how to apply the most advanced machine learning algorithms to such problems as anti-spam, image recognition, clustering, building recommender systems, and many other problems. we'll also know how to select the right algorithm for the right job, as well as become expert at ‘debugging’ and figuring out how to improve a learning algorithm's performance.
+
+- Finished the course content about the concepts and techniques in machine learning and simple introduction into deep learning.
+- Implemented all the courseworks independently and achieved full scores.
+- Tools: Python Octave Matlab
 
 2. << Machine Learning with Python >>
 
+This is one of the best books teaching ML in practical which means instead of only reading there's lots of practices and projects to be done by hand although the concepts and details about all the algorithms are compete and also easy-understanding in the book. To achieve all the algorithms in ML by yourself to have an thorough understanding, Try this book.
+
+- Implemented all the classic algorithms by coding with just basic data structures in Python.
+- Obtained a great experience in applying machine learning algorithms to the real-word datasets.
+- Python
 
 3. Deep Learning(PyTorch) - BEIJING JIAOTONG UNIVERSITY
 
