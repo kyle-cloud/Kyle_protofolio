@@ -24,16 +24,21 @@ It is one of the greatest online course modules introducing machine learning con
 - Implemented all the courseworks independently and achieved full scores.
 - Tools: Python Octave Matlab
 
-2. << Machine Learning with Python >>
+2. Machine Learning with Python - book
 
 This is one of the best books teaching ML in practical which means instead of only reading there's lots of practices and projects to be done by hand although the concepts and details about all the algorithms are compete and also easy-understanding in the book. To achieve all the algorithms in ML by yourself to have an thorough understanding, Try this book.
 
 - Implemented all the classic algorithms by coding with just basic data structures in Python.
 - Obtained a great experience in applying machine learning algorithms to the real-word datasets.
-- Python
+- Tools: Python
 
 3. Deep Learning(PyTorch) - BEIJING JIAOTONG UNIVERSITY
 
+This course focused on the Deep Learning with its popular concepts, structures and techniques. Except the basic and detailed explanations about DL in the module, there were adequate experienments for students to carry on with PyTorch. We were expected to process and model the real-world datasets given by the course by hand.
+
+- Obtained a thorough understanding about the course content and got familiar with all the popular techniques and structures in deep learning.
+- impplemented all the experienments independantly and completely.
+- Tools: Python PyTorch
 
 4. Data science - King's College London
 
