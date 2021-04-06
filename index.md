@@ -65,7 +65,7 @@ Instant online communication is becoming more and more popular and necessary. Ho
 - Designed prototype and elegant UI,  implemented the function of chatting with single-person and multi-person, and carried out high concurrency experiments.
 - Tools: Java, MySQL, JavaScript
 
-**[3. Fingerprint - cyber security, BJTU](https://github.com/kyle-cloud/fingerprint)**
+**[3. Fingerprint - cyber security, BJTU](https://github.com/kyle-cloud/fingerprint)(private)**
 
 The black industry chain is rising rapidly. Lawbreakers can cheat and avoid tracking through a series of means, such as tampering with IP. In this context, the device fingerprint identification came into being. Device fingerprint refers to the unique identification that can uniquely identify the device, which can not be set by fraudsters. The device fingerprint can be used to identify the device. At present, the fingerprint of the device has been obtained and in-depth research mainly focuses on the software level, such as the browser fingerprint, but the hardware level device fingerprint acquisition research is not enough. This work is based on the existing device fingerprint acquisition technology to improve, in order to achieve the goal of not infringing the user's privacy, achieve a good balance between security and user experience and ensure stability, compatibility and performance under the premise of catering to technology development. The project combines the new API features provided by HTML5 with Windows system management instrumentation in order to obtain the hardware information of local and remote computers and extract the device fingerprint of the device which belongs to the research of device fingerprint at the hardware level.
 
@@ -74,7 +74,7 @@ The black industry chain is rising rapidly. Lawbreakers can cheat and avoid trac
 - Used encryption algorithms to achieve similarity comparison, such as SimHash, GenSim and Levenshtein.
 
 
-**[4. JustFindit - Android application, BJTU](https://github.com/kyle-cloud/JustFindit)**
+**[4. JustFindit - Android application, BJTU](https://github.com/kyle-cloud/JustFindit)(private)**
 
 JustFindit is a convenient navigation app focusing on users' needs for outdoor location and navigation. Through Baidu map API, direction sensor, SQLite database and other tools, this application can mark and archive current map position which means to add position remarks and view it later. The notes can be used to query the recorded location and the information about it.
 
@@ -82,18 +82,18 @@ JustFindit is a convenient navigation app focusing on users' needs for outdoor l
 - Designed prototype, initialized configuration and realized back-end functions.
 - Tools: C++, JavaScript, SQLite
 
-**[5. Grading System - BJTU](https://github.com/kyle-cloud/student_quality)**
+**[5. Grading System - BJTU](https://github.com/kyle-cloud/student_quality)(private)**
 
 In order to simplify the grading process in university we designed and implemented a platform for students to upload the files and certifications and for lecturers to monitor and grade.
 
 - Identified requirements, set up Node.js environment and designed back-end functions for the product.
 - implemented front-end, realized all functions of system and finally put the system into operation.
 
-**[6. Homedisk - Internship, BEIJING TIANXINGYICHEN](https://github.com/kyle-cloud/homedisk)**
+**[6. Homedisk - Internship, BEIJING TIANXINGYICHEN](https://github.com/kyle-cloud/homedisk)(private)**
 
 - Completed front-end, back-end and writing development documents for type of SkyDrive
 
-**[7. River Information Management System - Internship, BEIJING TIANXINGYICHEN]()**
+**[7. River Information Management System - Internship, BEIJING TIANXINGYICHEN]()(private)**
 
 - Optimized database queries and writing documents for software copyright
 - Improved query speed and efficiency to application standards and completed final document
