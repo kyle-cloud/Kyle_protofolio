@@ -87,11 +87,11 @@ In order to simplify the grading process in university we designed and implement
 - Identified requirements, set up Node.js environment and designed back-end functions for the product.
 - implemented front-end, realized all functions of system and finally put the system into operation.
 
-**[6. Homedisk - Internship, BEIJING TIANXINGYICHEN](https://github.com/kyle-cloud/homedisk)(private)**
+**6. Homedisk - Internship, BEIJING TIANXINGYICHEN**
 
 - Completed front-end, back-end and writing development documents for type of SkyDrive
 
-**[7. River Information Management System - Internship, BEIJING TIANXINGYICHEN]()(private)**
+**7. River Information Management System - Internship, BEIJING TIANXINGYICHEN**
 
 - Optimized database queries and writing documents for software copyright
 - Improved query speed and efficiency to application standards and completed final document
