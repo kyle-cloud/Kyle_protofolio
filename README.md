@@ -3,16 +3,14 @@
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others. In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-- Analysed and preprocessed data and built models to predict which passengers survived the Titanic shipwreck.
-- Trained and compared different models with respective process of feature engineering and achieved Top 4%.
+- Achieved Top 4% by exploring Feature Engineering in depth for the data and ensembled different pipelines to predict which passengers survived the Titanic shipwreck with an accuracy of 83.25%.
 - Tools: Python, Scikit_learn, Xgboost
 
 **[2. Cassava Leaf Disease Classification](https://www.kaggle.com/kylecloud/cassava-leaf-disease-top11percent)**
 
 As the second-largest provider of carbohydrates in Africa, cassava is a key food security crop grown by smallholder farmers because it can withstand harsh conditions. At least 80% of household farms in Sub-Saharan Africa grow this starchy root, but viral diseases are major sources of poor yields. With the help of data science, it may be possible to identify common diseases so they can be treated. Your task is to classify each cassava image into four disease categories or a fifth category indicating a healthy leaf. With your help, farmers may be able to quickly identify diseased plants, potentially saving their crops before they inflict irreparable damage.
 
-- Built and trained an ensembled model using PyTorch for image classification to recognize cassava leaf disease.
-- Ensembled EfficientNet-B3\EfficientNet-B4\ResNeXt models and achieved Top 11%.
+- Achieved Top 11% by researching the papers and articles on Pre-Trained Models for Image Classification and trained and ensembled them to recognize cassava leaf disease with an accuracy of 89.77%.
 - Tools: Python, Pandas, PyTorch
         
 # courses in ML/DS
@@ -53,8 +51,8 @@ This course focused on the Deep Learning with its popular concepts, structures a
 
 With the rapid development of wireless communication technology, hundreds of millions of mobile data are generated every day in our daily life, and the mobile behavior of objects is diverse while still maintaining regularity. Therefore, this subject switches the big data information according to the base station provided by the mobile base station, excavates its path of action, identifies the petitioner according to it, and provides the petitioner with Real time location information. At the same time, in order to solve the problem of big data storage calculation and track similarity matching, the high-level and low-level models are used. The low-level model combines the segmentation and dimensionality reduction based on MDL (minimum description length) principle with the neighbor grower algorithm (DBSCAN) based on segment clustering to preprocess the track to reduce the system operation time. The high level model combines the two-level planning based on track feature extraction The improved Hausdorff distance based on information entropy, time interpolation and time constraint is combined to match the trajectory to improve the performance of similarity recognition, so as to build a big data processing environment, and finally form a web software that presents the petitioner's trajectory and similar trajectory on the map, and judges the identity information accordingly.
 
-- Used dimensionality reduction, matching and clustering algorithms to help recognize the owner of trajectory efficiently.
-- Created or optimized a set of algorithms to improve the performance of clustering and matching.
+- Reproduced existing papers on clustering and matching trajectories and developed a web application to visualize the process.
+- Utilized Tree Data Structure and optimized the dimensionality reduction method to store and preprocess 15 million trajectory points, which reduced total process time by 50%.
 - Tools: Java, MongoDB, JavaScript
 
 **[2. weChat - online chat platform, BJTU](https://github.com/kyle-cloud/weChat---)**
